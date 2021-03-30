@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "190081243526",
+    "project_id": "web-engineering-project-cs1863",
+    "storage_bucket": "web-engineering-project-cs1863.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:190081243526:android:4814a4a05a067f6904f407",
+        "android_client_info": {
+          "package_name": "com.example.complaint_portal_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "190081243526-9ihap4dgufvq4clu81laf95mgnpj8d8f.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDh_302eWdNjWoOgb3VUQNL9jKiP44ldMk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "190081243526-9ihap4dgufvq4clu81laf95mgnpj8d8f.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
